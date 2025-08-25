@@ -5,9 +5,6 @@
 <!-- Profile Views & Followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=3bdelazizrs&label=Profile%20views&color=ff69b4&style=flat" alt="3bdelazizrs" />
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
 </p>
 
 ---
